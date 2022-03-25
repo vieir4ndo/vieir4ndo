@@ -29,17 +29,15 @@ I'm a Computer Science Technician graduated from the Federal Institute of Santa 
 
 - ✉️ Hit me up anywhere @vieir4ndo or feel free to send me an e-mail at matheus.eu.mv@gmail.com
 
-[<img align="left" alt="Matheus | LinkedIn" width="33px" src="/img/icons8-linkedin-48.png" />](https://www.linkedin.com/in/vieir4ndo/)
+[<img alt="Matheus | LinkedIn" width="33px" src="/img/icons8-linkedin-48.png" />](https://www.linkedin.com/in/vieir4ndo/)
 
-[<img align="left" alt="Matheus | Instagram" width="33px" src="/img/icons8-instagram-48.png" />](https://www.instagram.com/vieir4ndo)
+[<img alt="Matheus | Instagram" width="33px" src="/img/icons8-instagram-48.png" />](https://www.instagram.com/vieir4ndo)
 
-[<img align="left" alt="Matheus | Facebook" width="33px" src="/img/icons8-facebook-48.png" />](https://www.facebook.com/vieir4ndo)
+[<img alt="Matheus | Facebook" width="33px" src="/img/icons8-facebook-48.png" />](https://www.facebook.com/vieir4ndo)
 
-[<img align="left" alt="Matheus | Youtube" width="33px" src="/img/icons8-youtube-48.png" />](https://www.youtube.com/channel/vieir4ndo)
+[<img alt="Matheus | Youtube" width="33px" src="/img/icons8-youtube-48.png" />](https://www.youtube.com/channel/vieir4ndo)
   
-[<img align="left" alt="Matheus | Twitter" width="33px" src="/img/icons8-twitter-quadrado-48.png" />](https://www.twitter.com/vieir4ndo)
-
- <br />
+[<img alt="Matheus | Twitter" width="33px" src="/img/icons8-twitter-quadrado-48.png" />](https://www.twitter.com/vieir4ndo)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=vieir4ndo&count_private=true&theme=dracula" width="400"/>
 
