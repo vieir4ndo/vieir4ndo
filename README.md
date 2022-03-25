@@ -29,8 +29,6 @@ I'm a Computer Science Technician graduated from the Federal Institute of Santa 
 
 - ✉️ Hit me up anywhere @vieir4ndo or feel free to send me an e-mail at matheus.eu.mv@gmail.com
 
-<div>
-
 [<img align="left" alt="Matheus | LinkedIn" width="33px" src="/img/icons8-linkedin-48.png" />](https://www.linkedin.com/in/vieir4ndo/)
 
 [<img align="left" alt="Matheus | Instagram" width="33px" src="/img/icons8-instagram-48.png" />](https://www.instagram.com/vieir4ndo)
@@ -41,7 +39,6 @@ I'm a Computer Science Technician graduated from the Federal Institute of Santa 
   
 [<img align="left" alt="Matheus | Twitter" width="33px" src="/img/icons8-twitter-quadrado-48.png" />](https://www.twitter.com/vieir4ndo)
 
- </div>
  <br />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=vieir4ndo&count_private=true&theme=dracula" width="400"/>
