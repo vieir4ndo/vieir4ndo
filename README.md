@@ -34,3 +34,5 @@ My work experience have started back in 2018 when I was still in my technician c
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=vieir4ndo&count_private=true&theme=dracula" width="400"/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieir4ndo&theme=dracula&langs_count=8&layout=compact" width="300"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vieir4ndo&theme=dracula">
