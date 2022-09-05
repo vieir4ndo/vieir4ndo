@@ -8,7 +8,7 @@ I'm **Matheus Vieira Santos**, I am a software developer currently living and wo
 
 ### 🎓 Education
 
-I'm a Computer Science Technician graduated from the Federal Institute of Santa Catarina (IFSC) and, nowadays, I'm in the fourth semester of my Bachelor in Computer Science in the Federal University of Fronteira Sul (UFFS).
+I'm a Computer Science Technician graduated from the Federal Institute of Santa Catarina (IFSC) and, nowadays, I'm in the fifth semester of my Bachelor in Computer Science in the Federal University of Fronteira Sul (UFFS).
 
 ### ⚒️ Work
 
