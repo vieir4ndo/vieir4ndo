@@ -12,7 +12,7 @@ I'm a Computer Science Technician graduated from the Federal Institute of Santa 
 
 ### ⚒️ Work
 
-My work experience has started back in 2018 when I was still in my technician course. I worked as a Trainee at the Porto's Superior Institute of Engineering (ISEP) in Portugal, mainly with Front-End developing. This experience lasted for a semester as it was a contracted partnership between the school I studied in Brazil and ISEP. Later in 2020, after I graduated my technician course and enrolled in the university, I started working at Questor Systems S/A as a Trainee in the Full Stack segmentation. After a year working there I got promoted to the position of Junior Full Stack Developer and I stood in this position for almost a year until I decided to leave the company. Finally, nowadays I work as a Junior Back-End Developer at Stone Co.
+My work experience has started back in 2018 when I was still in my technician course. I worked as a Trainee at the Porto's Superior Institute of Engineering (ISEP) in Portugal, mainly with Front-End developing. This experience lasted for a semester as it was a contracted partnership between the school I studied in Brazil and ISEP. Later in 2020, after I graduated from my technician course and enrolled at university, I started working at Questor Systems S/A as a Trainee in the Full Stack segmentation. After a year working there I got promoted to the position of Junior Full Stack Developer and I stood in this position for almost a year until I decided to leave the company. Finally, nowadays I work as a Junior Back-End Developer at Stone Co.
 
 ### ✨ Cool stuff about me
 
