@@ -4,7 +4,7 @@
 
 ### 🍰 About me
 
-I'm **Matheus Vieira Santos**, I am a software engineer currently living and working in Brazil 🇧🇷. I like to think of myself as an extroverted, excited and proactive person. I really do believe in the transforming power of education and, in this perspective, I'm always engaged in different projects.
+I'm **Matheus Vieira Santos**, I am a middle software engineer currently living and working in Brazil 🇧🇷. I like to think of myself as an extroverted, excited and proactive person. I really do believe in the transforming power of education and, in this perspective, I'm always engaged in different projects.
 
 ### 🎓 Education
 
