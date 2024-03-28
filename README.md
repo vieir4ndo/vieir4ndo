@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-![header](/img/header.png)
+![header](/img/Header Git Matheus (Gif).png)
 
 ### 🍰 About me
 
