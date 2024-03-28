@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-![header](/img/new_header.gif)
+![header](/img/header.png)
 
 ### 🍰 About me
 
