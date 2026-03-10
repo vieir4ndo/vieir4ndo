@@ -4,26 +4,25 @@
 
 ### 🍰 About me
 
-I'm **Matheus Vieira Santos**, I am a middle software engineer currently living and working in Brazil 🇧🇷. I like to think of myself as an extroverted, excited and proactive person. I really do believe in the transforming power of education and, in this perspective, I'm always engaged in different projects.
+I'm **Matheus Vieira Santos**, I am a senior software engineer currently living and working in Spain. I like to think of myself as an extroverted, excited and proactive person. I really do believe in the transforming power of education and, in this perspective, I'm always engaged in different projects.
 
 ### 🎓 Education
 
-I'm a Computer Science Technician graduated from the Federal Institute of Santa Catarina (IFSC) and, nowadays, I'm in the sixth semester of my Bachelor in Computer Science in the Federal University of Fronteira Sul (UFFS).
+I'm a Computer Science Technician graduated from the Federal Institute of Santa Catarina (IFSC), a Bachelor in Computer Science by the Federal University of Fronteira Sul (UFFS) and nowadays I'm in masters in web engineering at the Polytechnic University of Madrid.
 
 ### ⚒️ Work
 
-My work experience has started back in 2018 when I was still in my technician course. I worked as a Trainee at the Porto's Superior Institute of Engineering (ISEP) in Portugal, mainly with Front-End developing. This experience lasted for a semester as it was a contracted partnership between the school I studied in Brazil and ISEP. Later in 2020, after I graduated from my technician course and enrolled at university, I started working at Questor Systems S/A as a Trainee in the Full Stack segmentation. After a year working there I got promoted to the position of Junior Full Stack Developer and I stood in this position for almost a year until I decided to leave the company. Finally, nowadays I work as a Software Engineer at Stone Co.
+My work experience started in 2018 when I was still in my technician course. I worked as a Trainee at the Porto's Superior Institute of Engineering (ISEP) in Portugal, mainly with Front-End development. This experience lasted for one semester as it was part of a contracted partnership between the school I attended in Brazil and ISEP.
+Later, in 2020, after graduating from my technician course and enrolling at university, I started working at Questor Systems S/A as a Trainee in the Full Stack area. After a year working there, I was promoted to the position of Junior Full Stack Developer, where I remained for almost another year before deciding to leave the company.
+Finally, I joined Stone Co. as a Software Engineer, where I worked for three years focusing mainly on backend development. During this time, I was promoted to a Mid-level Software Engineer position. Later, I transitioned to the Business Insights team, where I currently work and perform the day-to-day responsibilities of a Senior Software Engineer in a Full Stack role.
 
 ### ✨ Cool stuff about me
 
-- 🌎 I participated in 14th edition of the International Cooperation Program for IFSC Students
-- 💊 I developed (with my classmates) an assistive technology for the elderly called +Idoso
-- 📄 I wrote (with my classmates) the documentation for a Shipment Company's software
+- 🌎 I participated in two exchange programs, one in Portugal and another in Spain
 - ⚙️ I took courses in many different fields, such as electrics, mechanics, administration, theater and design
-- 🗣️ I speak three languages (Portuguese, Spanish and English)
+- 🗣️ I speak four languages (Portuguese, Spanish, English and Italian)
 - 🧑‍🏫 I taught English classes for a year when I was in High School
 - 🏅 I won some medals and honor certificates through Math Olympics in High School
-- 🌱 I was a part of the project 'Mini teaching plant for biodiesel production'
 
 ### 📫 Contact
 
