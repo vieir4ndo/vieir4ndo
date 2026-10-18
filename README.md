@@ -8,13 +8,13 @@ I'm **Matheus Vieira Santos**, I am a senior software engineer currently living 
 
 ### 🎓 Education
 
-I'm a Computer Science Technician graduated from the Federal Institute of Santa Catarina (IFSC), a Bachelor in Computer Science by the Federal University of Fronteira Sul (UFFS) and nowadays I'm in masters in web engineering at the Polytechnic University of Madrid.
+I hold a Master's degree in Web Engineering from the Polytechnic University of Madrid (UPM), a Bachelor's degree in Computer Science from the Federal University of Fronteira Sul (UFFS), and I am a Computer Science Technician graduate from the Federal Institute of Santa Catarina (IFSC).
 
 ### ⚒️ Work
 
-My work experience started in 2018 when I was still in my technician course. I worked as a Trainee at the Porto's Superior Institute of Engineering (ISEP) in Portugal, mainly with Front-End development. This experience lasted for one semester as it was part of a contracted partnership between the school I attended in Brazil and ISEP.
-Later, in 2020, after graduating from my technician course and enrolling at university, I started working at Questor Systems S/A as a Trainee in the Full Stack area. After a year working there, I was promoted to the position of Junior Full Stack Developer, where I remained for almost another year before deciding to leave the company.
-Finally, I joined Stone Co. as a Software Engineer, where I worked for three years focusing mainly on backend development. During this time, I was promoted to a Mid-level Software Engineer position. Later, I transitioned to the Business Insights team, where I currently work and perform the day-to-day responsibilities of a Senior Software Engineer in a Full Stack role.
+I have been working in software engineering since 2020, with experience in both backend and full-stack development. Throughout my career, I have worked across different companies and teams, developing software solutions and expanding my expertise in backend systems, APIs, and full-stack applications.
+
+My professional experience includes roles at Questor Systems, Stone Co., and Business Insights, where I progressed from trainee and junior positions to mid-level and senior-level responsibilities. I currently work at Pepper Advantage, continuing to build on my experience in software engineering, with a strong focus on backend development and full-stack solutions.
 
 ### ✨ Cool stuff about me
 
